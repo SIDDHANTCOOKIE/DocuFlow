@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# DocuFlow – Seamless Document Format Conversion (MD ⇄ DOCX)
 
-# Run and deploy your AI Studio app
+**DocuFlow** is a lightweight and efficient document conversion tool that enables seamless transformation between **Markdown (.md)** and **Microsoft Word (.docx)** formats.
 
-This contains everything you need to run your app locally.
+Designed for developers, technical writers, students, and professionals, DocuFlow ensures structured formatting, clean content preservation, and high conversion accuracy without compromising document integrity.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1s81dZcR0W78apAa9ZXILRXn7jgz1MZz0
+---
 
-## Run Locally
+## 🚀 Key Features
 
-**Prerequisites:**  Node.js
+### 🔄 Bidirectional Conversion
+- Convert Markdown (.md) to Word (.docx)
+- Convert Word (.docx) to Markdown (.md)
 
+### 🧩 Formatting Preservation
+- Headings (H1–H6)
+- Bold, italic, underline
+- Ordered and unordered lists
+- Code blocks
+- Tables
+- Hyperlinks
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 💻 Developer Friendly
+- Clean Markdown structure
+- Compatible with GitHub-style Markdown
+- CLI and web-based integration ready
+
+### ⚡ Fast & Reliable
+- Instant processing
+- Lightweight architecture
+- No formatting corruption
+
+---
+
+## 💡 Why DocuFlow?
+
+Writers often draft content in Markdown for simplicity and version control, while organizations require DOCX for collaboration and submission. DocuFlow bridges this gap by providing a reliable and efficient conversion pipeline between both formats.
+
+Whether you're preparing documentation, academic reports, technical manuals, or collaborative drafts — DocuFlow streamlines your workflow.
