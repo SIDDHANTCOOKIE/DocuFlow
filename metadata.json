@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow",
+  "description": "A pristine, minimalist Markdown to DOCX and DOCX to Markdown converter designed with an Apple-esque aesthetic. No AI, just pure algorithmic conversion.",
+  "requestFramePermissions": []
+}
